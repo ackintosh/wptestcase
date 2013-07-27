@@ -1,0 +1,16 @@
+- 
+  post_title: Test post title 1
+  post_content: Test post content 1
+  post_status: publish
+- 
+  post_title: Test post title 2
+  post_content: Test post content 2
+  post_status: publish
+- 
+  post_title: Test post title 3
+  post_content: Test post content 3
+  post_status: draft
+- 
+  post_title: Test post title 4
+  post_content: Test post content 4
+  post_status: publish
